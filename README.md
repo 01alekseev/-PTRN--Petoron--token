@@ -9,7 +9,7 @@ No admin keys. No mint. No pause. No hidden tricks. Just a transparent, ownerles
 - **Network:** Ethereum Mainnet  
 - **Contract:** `0xCe675D637bB5E3aDAFDC4d1e475a35D75F6D95bc`  
 - **Decimals:** 8  
-- **Total supply:** **20,000,000 PTRN** (all minted at deployment)  
+- **Total supply:** **20,000,000 PTRN** 
 - **Treasury:** `0x31187017dC243d4D46126bB5a160Bb98FFeef39b`  
 - **Constructor args:**  
   - `_treasury = 0x3118…f39b`  
